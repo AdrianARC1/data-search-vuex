@@ -11,8 +11,8 @@ const routes = [
   },
  
   {
-    path: '/mostar',
-    name: 'mostar',
+    path: '/mostrar',
+    name: 'mostrar',
     component: vistaMostrar
   },
  
